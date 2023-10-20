@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @edrendp
+- 👀 I'm passionate about programming.
+- 🌱 I'm currently learning new languages and technologies to expand my skills.
+- 💞️ I'm looking to collaborate on open-source projects, coding challenges, or anything exciting in the coding world.
+- 📫 How to reach me: *N/A*
